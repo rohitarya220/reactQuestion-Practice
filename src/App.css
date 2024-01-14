@@ -1,0 +1,18 @@
+/* .center{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+} */
+
+
+
+.darkTheme{
+    background-color: black;
+    color: white;
+}
+.lightTheme{
+    background-color: white;
+    color: black;
+}
+
